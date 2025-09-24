@@ -1,4 +1,4 @@
-# RabbitMQ 常见面试题整理
+# RabbitMQ
 
 ## 一、基础概念
 
